@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFournisseur xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fournisseur>
+    <Nom>Carrefour</Nom>
+    <Produits>
+      <Produit>
+        <Nom>jambon</Nom>
+        <Quantite_A_Commander>650</Quantite_A_Commander>
+      </Produit>
+      <Produit>
+        <Nom>poireau</Nom>
+        <Quantite_A_Commander>4</Quantite_A_Commander>
+      </Produit>
+      <Produit>
+        <Nom>huile</Nom>
+        <Quantite_A_Commander>39</Quantite_A_Commander>
+      </Produit>
+    </Produits>
+  </Fournisseur>
+</ArrayOfFournisseur>

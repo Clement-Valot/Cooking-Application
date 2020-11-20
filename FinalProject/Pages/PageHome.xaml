@@ -1,0 +1,83 @@
+﻿<Page x:Class="FinalProject.Pages.PageHome"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FinalProject.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1200"
+      Title="PageHome" Loaded="Page_Loaded">
+
+    <Page.Resources>
+        <Style x:Key="styleButtonHome" TargetType="Button">            
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Padding" Value="16,12"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Background" Value="WhiteSmoke"/>
+            <Setter Property="Visibility" Value="Collapsed"/>
+        </Style>
+        <Style x:Key="styleButtonActive" TargetType="Button" BasedOn="{StaticResource styleButtonHome}">
+            <Setter Property="Background" Value="White"/>
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <DockPanel Background="WhiteSmoke">
+
+            <StackPanel DockPanel.Dock="Top" Margin="0,24,0,0">
+
+                <Button Name="ButtonMarket" Click="ButtonMarket_Click" 
+                        Style="{StaticResource styleButtonHome}">
+                    Market
+                </Button>
+                <Button Name="ButtonCreate" Click="ButtonCreate_Click" 
+                        Style="{StaticResource styleButtonHome}">
+                    Create Recipe
+                </Button>
+                <Button Name="ButtonAccount" Click="ButtonAccount_Click"
+                        Style="{StaticResource styleButtonHome}">
+                    Account
+                </Button>
+                <Button Name="ButtonDemo" Click="ButtonDemo_Click"
+                        Style="{StaticResource styleButtonHome}">
+                    Demo
+                </Button>
+                <Button Name="ButtonDashboard" Click="ButtonDashboard_Click"
+                        Style="{StaticResource styleButtonHome}">
+                    Dashboard
+                </Button>
+                <Button Name="ButtonRestock" Click="ButtonRestock_Click"
+                        Style="{StaticResource styleButtonHome}">
+                    Product Restock
+                </Button>
+                <Button Name="ButtonRecipes" Click="ButtonRecipes_Click"
+                        Style="{StaticResource styleButtonHome}">
+                    Recipes
+                </Button>
+                <Button Name="ButtonRecipeCreators" Click="ButtonRecipeCreators_Click"
+                        Style="{StaticResource styleButtonHome}">
+                    Recipe Creators
+                </Button>
+
+            </StackPanel>
+            
+            <Button DockPanel.Dock="Bottom" Margin="0,0,0,24" Name="ButtonLogout" Click="ButtonLogout_Click" VerticalAlignment="Bottom"
+                    Style="{StaticResource styleButtonHome}">
+                Log out
+            </Button>
+            
+        </DockPanel>
+
+        <Frame Grid.Column="1" Name="FrameContent" NavigationUIVisibility="Hidden">
+            
+        </Frame>
+        
+    </Grid>
+</Page>

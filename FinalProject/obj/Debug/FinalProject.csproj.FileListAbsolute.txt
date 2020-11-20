@@ -1,0 +1,486 @@
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\netstandard.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.AppContext.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Collections.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.ComponentModel.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Console.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Data.Common.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Globalization.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.IO.Compression.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.IO.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.IO.Pipes.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Linq.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Net.Http.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Net.Ping.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Net.Primitives.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Net.Requests.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Net.Security.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Net.Sockets.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.ObjectModel.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Reflection.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Resources.Reader.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Resources.Writer.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Security.Claims.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Security.Principal.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Security.SecureString.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Text.Encoding.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Threading.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Threading.Thread.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Threading.Timer.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Xml.XPath.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\MySql.Data.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\Renci.SshNet.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Buffers.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Memory.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\Zstandard.Net.dll
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\Google.Protobuf.xml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\MySql.Data.xml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\Renci.SshNet.xml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Buffers.xml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Memory.xml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.exe.config
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Admin\PageClient.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\App.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Admin\PageClient.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.g.resources
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\PageHome.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\PageHome.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentAccount.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentAccount.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentCreateRecipe.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentCreateRecipe.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageCreateAccount.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageForgotPassword.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageLogin.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageCreateAccount.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageForgotPassword.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageLogin.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Demo\FragmentDemo.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Demo\FragmentDemo.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentDashboard.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentDashboard.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentMarket.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentMarket.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRestock.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRestock.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRecipe.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRecipe.baml
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRecipeCreator.g.cs
+C:\Users\Vince\source\repos\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRecipeCreator.baml
+D:\ESILV\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\ESILV\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\ESILV\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\ESILV\FinalProject\FinalProject\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\netstandard.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.AppContext.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Collections.Concurrent.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Collections.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Collections.NonGeneric.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Collections.Specialized.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.ComponentModel.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.ComponentModel.Primitives.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Console.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Data.Common.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Diagnostics.Contracts.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Diagnostics.Debug.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Diagnostics.Process.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Diagnostics.Tools.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Diagnostics.Tracing.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Drawing.Primitives.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Dynamic.Runtime.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Globalization.Calendars.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Globalization.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Globalization.Extensions.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.IO.Compression.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.IO.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.IO.FileSystem.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.IO.IsolatedStorage.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.IO.Pipes.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Linq.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Linq.Expressions.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Linq.Parallel.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Linq.Queryable.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Net.Http.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Net.NameResolution.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Net.NetworkInformation.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Net.Ping.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Net.Primitives.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Net.Requests.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Net.Security.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Net.Sockets.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Net.WebSockets.Client.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Net.WebSockets.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.ObjectModel.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Reflection.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Reflection.Extensions.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Reflection.Primitives.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Resources.Reader.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Resources.ResourceManager.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Resources.Writer.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.Extensions.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.Handles.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.InteropServices.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.Numerics.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Security.Claims.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Security.Principal.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Security.SecureString.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Text.Encoding.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Text.RegularExpressions.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Threading.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Threading.Overlapped.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Threading.Tasks.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Threading.Thread.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Threading.ThreadPool.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Threading.Timer.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Xml.ReaderWriter.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Xml.XDocument.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Xml.XmlDocument.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Xml.XmlSerializer.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Xml.XPath.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\BouncyCastle.Crypto.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\Google.Protobuf.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\K4os.Compression.LZ4.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\K4os.Hash.xxHash.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\MySql.Data.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\Renci.SshNet.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Buffers.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Memory.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Numerics.Vectors.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\Ubiety.Dns.Core.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\Zstandard.Net.dll
+D:\ESILV\FinalProject\FinalProject\bin\Debug\Google.Protobuf.xml
+D:\ESILV\FinalProject\FinalProject\bin\Debug\K4os.Compression.LZ4.xml
+D:\ESILV\FinalProject\FinalProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ESILV\FinalProject\FinalProject\bin\Debug\K4os.Hash.xxHash.xml
+D:\ESILV\FinalProject\FinalProject\bin\Debug\MySql.Data.xml
+D:\ESILV\FinalProject\FinalProject\bin\Debug\Renci.SshNet.xml
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Buffers.xml
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Memory.xml
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Numerics.Vectors.xml
+D:\ESILV\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+D:\ESILV\FinalProject\FinalProject\obj\Debug\FinalProject.exe.config
+D:\ESILV\FinalProject\FinalProject\obj\Debug\MainWindow.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentDashboard.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRecipe.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRecipeCreator.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRestock.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Admin\PageClient.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Demo\FragmentDemo.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentAccount.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentCreateRecipe.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentMarket.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageCreateAccount.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageForgotPassword.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\PageHome.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageLogin.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\App.g.cs
+D:\ESILV\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+D:\ESILV\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+D:\ESILV\FinalProject\FinalProject\obj\Debug\MainWindow.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentDashboard.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRecipe.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRecipeCreator.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Admin\FragmentRestock.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Admin\PageClient.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Demo\FragmentDemo.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentAccount.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentCreateRecipe.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Fragment\FragmentMarket.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageCreateAccount.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageForgotPassword.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\PageHome.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\Pages\Auth\PageLogin.baml
+D:\ESILV\FinalProject\FinalProject\obj\Debug\FinalProject.g.resources
+D:\ESILV\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\ESILV\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\ESILV\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\ESILV\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+D:\ESILV\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\ESILV\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\FinalProject.exe.config
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\FinalProject.exe
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\FinalProject.pdb
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\netstandard.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.AppContext.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Collections.Concurrent.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Collections.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Collections.NonGeneric.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Collections.Specialized.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.ComponentModel.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.ComponentModel.Primitives.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Console.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Data.Common.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Diagnostics.Contracts.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Diagnostics.Debug.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Diagnostics.Process.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Diagnostics.Tools.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Diagnostics.Tracing.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Drawing.Primitives.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Dynamic.Runtime.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Globalization.Calendars.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Globalization.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Globalization.Extensions.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.IO.Compression.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.IO.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.IO.FileSystem.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.IO.IsolatedStorage.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.IO.Pipes.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Linq.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Linq.Expressions.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Linq.Parallel.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Linq.Queryable.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Net.Http.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Net.NameResolution.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Net.NetworkInformation.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Net.Ping.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Net.Primitives.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Net.Requests.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Net.Security.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Net.Sockets.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Net.WebSockets.Client.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Net.WebSockets.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.ObjectModel.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Reflection.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Reflection.Extensions.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Reflection.Primitives.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Resources.Reader.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Resources.ResourceManager.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Resources.Writer.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.Extensions.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.Handles.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.InteropServices.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.Numerics.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Security.Claims.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Security.Principal.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Security.SecureString.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Text.Encoding.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Text.RegularExpressions.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Threading.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Threading.Overlapped.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Threading.Tasks.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Threading.Thread.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Threading.ThreadPool.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Threading.Timer.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.ValueTuple.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Xml.ReaderWriter.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Xml.XDocument.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Xml.XmlDocument.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Xml.XmlSerializer.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Xml.XPath.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\BouncyCastle.Crypto.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\Google.Protobuf.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\K4os.Compression.LZ4.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\K4os.Hash.xxHash.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\MySql.Data.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\Renci.SshNet.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Buffers.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Memory.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Numerics.Vectors.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\Ubiety.Dns.Core.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\Zstandard.Net.dll
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\Google.Protobuf.xml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\K4os.Compression.LZ4.xml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\K4os.Hash.xxHash.xml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\MySql.Data.xml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\Renci.SshNet.xml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Buffers.xml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Memory.xml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Numerics.Vectors.xml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\FinalProject.exe.config
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\MainWindow.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Admin\FragmentDashboard.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Admin\FragmentRecipe.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Admin\FragmentRecipeCreator.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Admin\FragmentRestock.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Admin\PageClient.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Demo\FragmentDemo.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Fragment\FragmentAccount.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Fragment\FragmentCreateRecipe.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Fragment\FragmentMarket.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Auth\PageCreateAccount.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Auth\PageForgotPassword.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\PageHome.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Auth\PageLogin.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\App.g.cs
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\MainWindow.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Admin\FragmentDashboard.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Admin\FragmentRecipe.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Admin\FragmentRecipeCreator.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Admin\FragmentRestock.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Admin\PageClient.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Demo\FragmentDemo.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Fragment\FragmentAccount.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Fragment\FragmentCreateRecipe.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Fragment\FragmentMarket.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Auth\PageCreateAccount.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Auth\PageForgotPassword.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\PageHome.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\Pages\Auth\PageLogin.baml
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\FinalProject.g.resources
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\FinalProject.exe
+D:\ESILV\BDD DM Clément VALOT\FinalProject\obj\Debug\FinalProject.pdb

@@ -1,0 +1,129 @@
+﻿<Page x:Class="FinalProject.Pages.Fragment.FragmentMarket"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FinalProject.Pages.Fragment"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="FragmentRecipes" Loaded="Page_Loaded">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <DockPanel Background="White">
+            <TextBlock DockPanel.Dock="Top" Margin="32" FontSize="20">
+                Available Recipes
+            </TextBlock>
+            <ListView DockPanel.Dock="Top" Margin="24,0,24,24"
+                      ScrollViewer.CanContentScroll="False"
+                      ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                      ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                      Name="ListViewRecipes"
+                      BorderThickness="0" HorizontalContentAlignment="Stretch">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Height="115" Background="WhiteSmoke" Visibility="{Binding Visibility}">
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock Margin="32,16,8,4" FontSize="14" FontWeight="SemiBold" Typography.Capitals="SmallCaps" TextWrapping="Wrap" Text="{Binding Name}"/>
+                            <TextBlock Grid.Row="1" Margin="32,4,8,16" TextWrapping="Wrap" Text="{Binding Description}"/>
+                            <TextBlock Grid.Column="1" Grid.RowSpan="2" Margin="8,16" VerticalAlignment="Bottom" TextWrapping="Wrap" Text="liste des produits à venir"/>
+                            <TextBlock Grid.Column="2" Margin="8,16,32,4" HorizontalAlignment="Right" FontSize="16" FontWeight="SemiBold" Text="{Binding Price, StringFormat=' {0} Cks'}"/>
+                            <Button Grid.Row="1" Grid.Column="2" Margin="8,4,32,16" Padding="16,8" HorizontalAlignment="Right" VerticalAlignment="Bottom" Tag="{Binding}" Name="ButtonAddToBucket" Click="ButtonAddToBucket_Click">
+                                Add
+                            </Button>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </DockPanel>
+
+        <Grid Grid.Column="1" Background="WhiteSmoke">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <TextBlock Margin="32" FontSize="20">
+                Bucket
+            </TextBlock>
+
+            <ListView Grid.Row="1" 
+                      DockPanel.Dock="Top"
+                      ScrollViewer.CanContentScroll="False"
+                      ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                      ScrollViewer.HorizontalScrollBarVisibility="Disabled" 
+                      Name="ListViewRecipesInBucket" Margin="24,0,24,24"
+                      BorderThickness="0"
+                      Background="WhiteSmoke"
+                      HorizontalContentAlignment="Stretch">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Height="115" Background="White">
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock Margin="32,16,8,4" FontSize="14" FontWeight="SemiBold" Typography.Capitals="SmallCaps" TextWrapping="Wrap" Text="{Binding Name}"/>
+                            <TextBlock Grid.Row="1" Margin="32,4,8,16" FontSize="14" VerticalAlignment="Center" Text="{Binding QuantityInOrder, StringFormat='Quantity: {0}'}"/>
+                            <TextBlock Grid.Column="1" Margin="8,16,32,4" HorizontalAlignment="Right" FontSize="16" FontWeight="SemiBold" Text="{Binding Price, StringFormat='\{0} Cks'}"/>
+                            <Button Grid.Row="1" Grid.RowSpan="2" Grid.Column="1" Margin="8,4,32,16" Padding="16,8"
+                                    HorizontalAlignment="Right" VerticalAlignment="Bottom" Content="Remove"
+                                    Tag="{Binding}" Name="ButtonRemoveFromBucket" Click="ButtonRemoveFromBucket_Click"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate> 
+            </ListView>
+
+            <StackPanel Grid.Row="2" Margin="32">
+                <StackPanel Margin="0,8" Orientation="Horizontal" HorizontalAlignment="Right">
+                    <TextBlock Padding="16,6" FontSize="20" VerticalAlignment="Bottom">
+                        Total:
+                    </TextBlock>
+                    <!--<TextBlock FontSize="24" FontWeight="SemiBold" Text="{Binding TotalPrice}"></TextBlock>-->
+                    <TextBlock Name="TextBlockTotalOrderCost" Padding="0,4" FontSize="24" VerticalAlignment="Bottom" FontWeight="SemiBold" Text="0"></TextBlock>
+                    <TextBlock Padding="2,8,0,8" FontSize="14" FontWeight="SemiBold" VerticalAlignment="Bottom">
+                        Cks
+                    </TextBlock>
+                </StackPanel>
+
+                <StackPanel Margin="0,8" Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Button Name="ButtonOrder" Click="ButtonOrder_Click" Padding="16,8" HorizontalAlignment="Right" VerticalAlignment="Top">
+                        Order
+                    </Button>
+                    <Button Name="ButtonGiveCooks"  Margin="24,0,0,0" Click="ButtonGiveCooks_Click" Visibility="Collapsed" Padding="16,8" HorizontalAlignment="Right" VerticalAlignment="Top">
+                        Give Cooks
+                    </Button>
+                </StackPanel>
+
+
+                
+            </StackPanel>
+
+
+        </Grid>
+
+    </Grid>
+</Page>
